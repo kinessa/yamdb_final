@@ -53,7 +53,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          contex: ./api_yamdb/
+          context: ./api_yamdb/
           tags: kinessa/yamdb_final
 
   deploy:
