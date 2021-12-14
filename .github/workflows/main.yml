@@ -27,7 +27,7 @@ jobs:
         pip install flake8 pep8-naming flake8-broken-line flake8-return flake8-isort
         # перейти в папку, содержащую requirements.txt -
         #<корневая_папка_yamdb_final>/<папка_проекта>
-        cd .\api_yamdb\
+        cd api_yamdb/
         # установка зависимостей
         pip install -r requirements.txt
 
