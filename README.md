@@ -98,5 +98,5 @@ confirmation_code = 'Тут ваш confirmation_code'
 Кириленко Инесса
 
 Ссылка на запущенный проект:
-http://51.250.29.158/redoc/
+http://51.250.29.158/admin/
 ***
